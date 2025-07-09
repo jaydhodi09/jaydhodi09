@@ -24,6 +24,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaydhodi09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydhodi09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 📈Leetcode & RoadMap Stats
+
+<p align="center">
+  <a href="https://github.com/jaydhodi09">
+    <img width="300" src="https://leetcard.jacoblin.cool/jaydhodi09?theme=nord&font=Caveat%20Brush&ext=heatmap" height="240"/>
+  </a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
