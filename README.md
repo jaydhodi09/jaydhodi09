@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-👤 I'm Jay Dhodi<br>🧑‍🎓 I Pursuing  Btech in Cse-Ai  From Parul University<br>🍁 I'm currently Learning Python Full Stack Development<br>👯‍♀️ I'm looking to collaborate on Ai  Based Projects
+👤 I'm Jay Dhodi<br>🧑‍🎓 I Pursuing  Btech in Cse-Ai  From Parul University<br>🍁 I'm currently Learning MERN Stack Development<br>👯‍♀️ I'm looking to collaborate on Ai  Based Projects
 
 
 ## 🌐 Socials:
