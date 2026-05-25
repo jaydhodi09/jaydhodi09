@@ -3,15 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=સ્વાગત+છે+👋;I'm+Jay+Dhodi;AI+%26+Software+Developer;MERN+Stack+Developer;FastAPI+Backend+Developer;Building+Futuristic+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=સ્વાગત+છે+👋;I'm+Jay+Dhodi;AI+%26+Software+Developer;MERN+Stack+Developer;Building+Futuristic+Projects+🚀" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaydhodi09&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-  
   <img src="https://img.shields.io/github/followers/jaydhodi09?logo=github&style=for-the-badge&color=blue"/>
-  
-  <img src="https://img.shields.io/github/stars/jaydhodi09?style=for-the-badge&color=yellow"/>
 </p>
 
 ---
@@ -36,8 +32,6 @@ Currently Learning:
   - System Design
   - Advanced Backend
 
-Life Goal:
-  Become Elite AI Engineer 🚀
 ```
 
 <img align="right" alt="coding" width="330" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
@@ -48,9 +42,7 @@ Life Goal:
 - 🌱 Learning **MERN + FastAPI + NLP**
 - ⚡ Love Futuristic UI/UX
 - 🧠 Exploring Open Source Contributions
-- 🎯 Goal: Crack Product-Based Companies
 - 🚀 Passionate About AI SaaS Products
-- 💻 Daily DSA + Development
 
 ---
 
