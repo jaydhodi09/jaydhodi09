@@ -159,9 +159,8 @@ Life Goal:
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaydhodi09/jaydhodi09/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/jaydhodi09/jaydhodi09/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 # ✍️ RANDOM DEV QUOTE
